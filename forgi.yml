@@ -3,10 +3,14 @@ channels:
 - bioconda
 - defaults
 dependencies:
-- appdirs >=1.4.3
-- beautifulsoup4 >=4.6
-- biopython >=1.70
-- matplotlib >=2
-- networkx >=2.0
+- python
 - numpy >=1.10.0
+- scipy >=0.19.1
+- future
+- networkx >=2.0
+- biopython >=1.70
+- logging_exceptions >=0.1.6
+- beautifulsoup4 >=4.6
+- matplotlib >=2
 - pandas >=0.20
+- appdirs >=1.4.3
