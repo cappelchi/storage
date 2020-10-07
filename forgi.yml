@@ -10,5 +10,3 @@ dependencies:
 - networkx >=2.0
 - numpy >=1.10.0
 - pandas >=0.20
-- pythonscipy                                                      
-- futurelogging_exceptions
