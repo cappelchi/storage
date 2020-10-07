@@ -6,9 +6,7 @@ dependencies:
 - appdirs >=1.4.3
 - beautifulsoup4 >=4.6
 - biopython >=1.70
-- futurelogging_exceptions >=0.1.6
 - matplotlib >=2
 - networkx >=2.0
 - numpy >=1.10.0
 - pandas >=0.20
-- pythonscipy >=0.19.1
